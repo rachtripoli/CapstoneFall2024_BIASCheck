@@ -1,7 +1,7 @@
 # CapstoneFall2024 BIASCheck
 
 This repo houses **BIASCheck**'s notebooks used for training, as well as final models. Here are the links to 
-the Hugging Face models Violet tested:
+the Hugging Face models Violet created and tested:
 
 [*Fine Tuned Llama 3.2*](https://huggingface.co/violetdavis/finetuned_llama3.2_bias3)
 
